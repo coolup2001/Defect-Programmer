@@ -1,0 +1,3 @@
+Column values in BOM reports are incorrect : aircraft design : Licensing : 13/09/2022 : fatal
+ : D002 : Mahesh KatkarLicensing is invalid for Unit-PX5 : Unit-PX5 : Licensing : 18/04/2021 : fatal
+ : D002 : Mahesh Katkar
